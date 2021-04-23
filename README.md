@@ -1,17 +1,19 @@
-## Greetings, my friend! 👋, I am Diogo Winck!
+## Greetings, my friend! 👋 
 
+I'm Diogo Vinicius Winck! 
 
-https://img.shields.io/github/followers/dvwinck?style=social
-https://img.shields.io/twitter/follow/diogowinck?style=social
+I'm passionate about technology, software and leading professional software engineers. I work hard to build strong and high performance teams. I have solid skills in Java, C, Python and Agile Methodologies. 
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/diogowinck) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/diogo.winck)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diogowinck/) 
 
 
 ---
 
-## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvwinck&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## My GitHub Stats
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvwinck&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvwinck&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvwinck&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
