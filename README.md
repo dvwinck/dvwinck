@@ -11,11 +11,6 @@ I'm passionate about technology, software and leadership. I work hard to build s
 ---
 
 
-## My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvwinck&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvwinck&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **dvwinck/dvwinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
