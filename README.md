@@ -26,6 +26,7 @@
 | [capybara-toolbox](https://github.com/dvwinck/capybara-toolbox) | Calm, capable skills and plugins for Claude Code. First plugin: `ar-board`, a local approve/reject board. |
 | [Nightshift-Analyst](https://github.com/dvwinck/Nightshift-Analyst) | A narrative-driven terminal simulation (SvelteKit + FastAPI) where you play a night-shift government analyst. |
 | [mind-dump](https://github.com/dvwinck/mind-dump) | Offline-first PWA notepad for quick mental dumps. |
+| [CatolicaSC-Portfolio](https://github.com/CatolicaSC-Portfolio) | Course organization for the Software Engineering Portfolio capstone at Católica SC: mature-software principles, RFC-based documentation and a Poster + Demo Day. |
 
 ## Toolbox
 
